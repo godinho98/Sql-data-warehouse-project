@@ -66,6 +66,7 @@ To ensure reliability, the project includes validation checks such as:
 These checks help guarantee that the data in the Gold layer is trustworthy for decision-making.
 
 ## 📂 Repository Structure
+```
 data-warehouse-project/
 │
 ├── datasets/                 # Raw input data (ERP and CRM sources)
@@ -80,3 +81,4 @@ data-warehouse-project/
 │
 ├── LICENSE                   # License details
 └── README.md                 # Project documentation
+```
